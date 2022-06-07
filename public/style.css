@@ -1,9 +1,22 @@
+* {
+    margin: 0;
+}
+
 body {
-    background-image: url("https://raw.githubusercontent.com/pgmatheus/sorteio/master/img/zebra-print-background_125540-1011.webp");
+    background-image: url("https://raw.githubusercontent.com/pgmatheus/sorteio/master/img/cheetah-4852724_960_720.jpg");
+}
+
+.container {
+    background-color: black;
+    width: 100%;
+    margin-bottom: 40px;
+    margin-top: 10px;
+
 }
 
 h1 {
     text-align: center;
+    color: white;
 }
 
 img {
@@ -18,7 +31,7 @@ button {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 50px;
+    margin-top: 40px;
     width: 430px;
     height: 100px;
 
